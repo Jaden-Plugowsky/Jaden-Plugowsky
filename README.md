@@ -1,6 +1,6 @@
 <h1>Hello! 👋</h1>
 <img src="https://idsb.tmgrup.com.tr/ly/uploads/images/2023/02/21/258632.jpg" alt="Black Hole Image" style="height: auto; width: 400px;">
-<p>I'm Jaden Plugowsky, a computer science student who is learning various coding languages and solutions.</p>
+<p style="font-size: 20px;">I'm Jaden Plugowsky, a computer science student who is learning various coding languages and solutions.</p>
 
 <br>
 <h2>Programming Languages I Use</h2>
